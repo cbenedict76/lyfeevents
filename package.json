@@ -1,0 +1,24 @@
+{
+  "name": "lyfeevents",
+  "version": "1.0.0",
+  "description": "Lyfe Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbenedict76/lyfeevents.git"
+  },
+  "author": "Corey J. Benedict",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbenedict76/lyfeevents/issues"
+  },
+  "homepage": "https://github.com/cbenedict76/lyfeevents#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
