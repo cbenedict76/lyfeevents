@@ -12,7 +12,7 @@ h2 {
   color: black; }
 
 header h2 {
-  color: #CEC8FF; }
+  color: #78A22F; }
 
 footer {
   background-image: linear-gradient(#CEC8FF, white);
@@ -31,6 +31,7 @@ footer {
 
 .navbar {
   background-color: #DE6426;
+  color: black;
   color: #78A22F; }
 
 .site-footer {
@@ -53,11 +54,3 @@ footer {
   right: 0;
   bottom: 0;
   z-index: 100; }
-
-#reserveModal .modal-header {
-  background-color: #17a2bb;
-  color: white; }
-
-#loginModal .modal-header {
-  background-color: #901CAD;
-  color: white; }
